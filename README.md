@@ -11,7 +11,7 @@ This project uses the Spotify API and web scraping to fetch Billboard Hot 100 so
 
 Before running the script, you need to set up your Spotify API credentials. Copy `config.template` to `config.py` and fill in your Spotify Client ID, Client Secret, Redirect URI, and Username.
 
-###Acknowledgements
+### Acknowledgements
 -Beautiful Soup
 -Spotipy
 -Requests
