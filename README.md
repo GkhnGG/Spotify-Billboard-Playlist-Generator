@@ -13,6 +13,9 @@ Before running the script, you need to set up your Spotify API credentials. Copy
 
 ### Acknowledgements
 -Beautiful Soup
+
 -Spotipy
+
 -Requests
+
 -Spotfiy Developer Tools
