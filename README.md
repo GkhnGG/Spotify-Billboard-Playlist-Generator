@@ -1,11 +1,11 @@
 
 # Spotify Billboard Playlist Generator
 
-This Python script generates a private Spotify playlist based on Billboard Hot 100 songs from a specified year.
+This Python script generates a private Spotify playlist based on Billboard Hot 100 songs from a specific date.
 
 ## Overview
 
-This project uses the Spotify API and web scraping to fetch Billboard Hot 100 songs from a user-specified year and creates a private Spotify playlist with these songs.
+This project uses the Spotify API and web scraping to fetch Billboard Hot 100 songs from a user-specified date and creates a private Spotify playlist with these songs.
 
 ## Prerequisites
 
